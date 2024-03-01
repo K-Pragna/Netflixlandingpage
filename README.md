@@ -1,7 +1,7 @@
 
 
 
-# Netflix-LandingPage
+## Netflix-LandingPage
 1. Description:
    > A landing page for Netflix, built using HTML, CSS, and JavaScript.
 2. Technologies Used:
