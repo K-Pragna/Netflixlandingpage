@@ -6,8 +6,8 @@
    > A landing page for Netflix, built using HTML, CSS, and JavaScript.
 2. Technologies Used:
    > HTML, CSS, JavaScript
-
-### Visit Website: [Netflix Landing Page](https://k-pragna.github.io/Netflixlandingpage/NETFLIX%20LANDING%20PAGE/index.html)
+3. Visit Website:
+   > [Netflix Landing Page](https://k-pragna.github.io/Netflixlandingpage/NETFLIX%20LANDING%20PAGE/index.html)
 
 
 ## DEMO - Video
