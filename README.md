@@ -1,7 +1,11 @@
 # Netflix-clone
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 
-##DEMO - Video
+#### Netflix-LandingPage:
+##### 1. Description: A landing page for Starbucks, built using HTML, CSS, and JavaScript.
+##### 2. Technologies Used: HTML, CSS, JavaScript
+
+## DEMO - Video
 
 
 https://github.com/K-Pragna/Netflixlandingpage/assets/158297257/7e54cc26-dab8-45ab-9b07-2808a51a0e79
